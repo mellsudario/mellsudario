@@ -1,0 +1,41 @@
+<svg width="680" height="80" viewBox="0 0 680 80" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>estrelinhas decorativas</title>
+  <defs>
+    <style>
+      .s1  { animation: sparkle 2.2s ease-in-out infinite 0.0s;  transform-origin:  60px 40px; }
+      .s2  { animation: sparkle 2.2s ease-in-out infinite 0.3s;  transform-origin: 130px 20px; }
+      .s3  { animation: sparkle 2.2s ease-in-out infinite 0.6s;  transform-origin: 200px 50px; }
+      .s4  { animation: sparkle 2.2s ease-in-out infinite 0.9s;  transform-origin: 270px 25px; }
+      .s5  { animation: sparkle 2.2s ease-in-out infinite 1.2s;  transform-origin: 340px 55px; }
+      .s6  { animation: sparkle 2.2s ease-in-out infinite 1.5s;  transform-origin: 410px 20px; }
+      .s7  { animation: sparkle 2.2s ease-in-out infinite 1.8s;  transform-origin: 480px 48px; }
+      .s8  { animation: sparkle 2.2s ease-in-out infinite 0.4s;  transform-origin: 550px 22px; }
+      .s9  { animation: sparkle 2.2s ease-in-out infinite 0.7s;  transform-origin: 620px 44px; }
+      .s10 { animation: sparkle 2.2s ease-in-out infinite 1.0s;  transform-origin:  95px 58px; }
+      .s11 { animation: sparkle 2.2s ease-in-out infinite 1.3s;  transform-origin: 165px 35px; }
+      .s12 { animation: sparkle 2.2s ease-in-out infinite 1.6s;  transform-origin: 305px 58px; }
+      .s13 { animation: sparkle 2.2s ease-in-out infinite 0.2s;  transform-origin: 445px 55px; }
+      .s14 { animation: sparkle 2.2s ease-in-out infinite 0.5s;  transform-origin: 515px 38px; }
+      .s15 { animation: sparkle 2.2s ease-in-out infinite 1.9s;  transform-origin: 585px 60px; }
+      @keyframes sparkle {
+        0%,100% { opacity:0; transform:scale(0.2) rotate(0deg); }
+        50%      { opacity:1; transform:scale(1)   rotate(20deg); }
+      }
+    </style>
+  </defs>
+  <g class="s1"><line x1="60" y1="28" x2="60" y2="52" stroke="#ffb3c6" stroke-width="2.5" stroke-linecap="round"/><line x1="48" y1="40" x2="72" y2="40" stroke="#ffb3c6" stroke-width="2.5" stroke-linecap="round"/><line x1="51" y1="31" x2="69" y2="49" stroke="#ffb3c6" stroke-width="1.5" stroke-linecap="round"/><line x1="69" y1="31" x2="51" y2="49" stroke="#ffb3c6" stroke-width="1.5" stroke-linecap="round"/></g>
+  <g class="s2"><line x1="130" y1="10" x2="130" y2="30" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="120" y1="20" x2="140" y2="20" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="123" y1="13" x2="137" y2="27" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/><line x1="137" y1="13" x2="123" y2="27" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/></g>
+  <g class="s3"><line x1="200" y1="42" x2="200" y2="58" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="192" y1="50" x2="208" y2="50" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="194" y1="44" x2="206" y2="56" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/><line x1="206" y1="44" x2="194" y2="56" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s4"><line x1="270" y1="13" x2="270" y2="37" stroke="#f9a8b8" stroke-width="2.5" stroke-linecap="round"/><line x1="258" y1="25" x2="282" y2="25" stroke="#f9a8b8" stroke-width="2.5" stroke-linecap="round"/><line x1="261" y1="16" x2="279" y2="34" stroke="#f9a8b8" stroke-width="1.5" stroke-linecap="round"/><line x1="279" y1="16" x2="261" y2="34" stroke="#f9a8b8" stroke-width="1.5" stroke-linecap="round"/></g>
+  <g class="s5"><line x1="340" y1="44" x2="340" y2="66" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="329" y1="55" x2="351" y2="55" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="332" y1="47" x2="348" y2="63" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/><line x1="348" y1="47" x2="332" y2="63" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/></g>
+  <g class="s6"><line x1="410" y1="10" x2="410" y2="30" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="400" y1="20" x2="420" y2="20" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="403" y1="13" x2="417" y2="27" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/><line x1="417" y1="13" x2="403" y2="27" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s7"><line x1="480" y1="36" x2="480" y2="60" stroke="#f9a8b8" stroke-width="2.5" stroke-linecap="round"/><line x1="468" y1="48" x2="492" y2="48" stroke="#f9a8b8" stroke-width="2.5" stroke-linecap="round"/><line x1="471" y1="39" x2="489" y2="57" stroke="#f9a8b8" stroke-width="1.5" stroke-linecap="round"/><line x1="489" y1="39" x2="471" y2="57" stroke="#f9a8b8" stroke-width="1.5" stroke-linecap="round"/></g>
+  <g class="s8"><line x1="550" y1="12" x2="550" y2="32" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="540" y1="22" x2="560" y2="22" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="543" y1="15" x2="557" y2="29" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/><line x1="557" y1="15" x2="543" y2="29" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/></g>
+  <g class="s9"><line x1="620" y1="34" x2="620" y2="54" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="610" y1="44" x2="630" y2="44" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="613" y1="37" x2="627" y2="51" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/><line x1="627" y1="37" x2="613" y2="51" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s10"><line x1="95" y1="48" x2="95" y2="68" stroke="#ffd6e7" stroke-width="1.8" stroke-linecap="round"/><line x1="85" y1="58" x2="105" y2="58" stroke="#ffd6e7" stroke-width="1.8" stroke-linecap="round"/><line x1="88" y1="51" x2="102" y2="65" stroke="#ffd6e7" stroke-width="1" stroke-linecap="round"/><line x1="102" y1="51" x2="88" y2="65" stroke="#ffd6e7" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s11"><line x1="165" y1="25" x2="165" y2="45" stroke="#f9a8b8" stroke-width="2" stroke-linecap="round"/><line x1="155" y1="35" x2="175" y2="35" stroke="#f9a8b8" stroke-width="2" stroke-linecap="round"/><line x1="158" y1="28" x2="172" y2="42" stroke="#f9a8b8" stroke-width="1.2" stroke-linecap="round"/><line x1="172" y1="28" x2="158" y2="42" stroke="#f9a8b8" stroke-width="1.2" stroke-linecap="round"/></g>
+  <g class="s12"><line x1="305" y1="48" x2="305" y2="68" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="295" y1="58" x2="315" y2="58" stroke="#ffb3c6" stroke-width="1.8" stroke-linecap="round"/><line x1="298" y1="51" x2="312" y2="65" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/><line x1="312" y1="51" x2="298" y2="65" stroke="#ffb3c6" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s13"><line x1="445" y1="44" x2="445" y2="66" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="434" y1="55" x2="456" y2="55" stroke="#ffd6e7" stroke-width="2" stroke-linecap="round"/><line x1="437" y1="47" x2="453" y2="63" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/><line x1="453" y1="47" x2="437" y2="63" stroke="#ffd6e7" stroke-width="1.2" stroke-linecap="round"/></g>
+  <g class="s14"><line x1="515" y1="28" x2="515" y2="48" stroke="#f9a8b8" stroke-width="1.8" stroke-linecap="round"/><line x1="505" y1="38" x2="525" y2="38" stroke="#f9a8b8" stroke-width="1.8" stroke-linecap="round"/><line x1="508" y1="31" x2="522" y2="45" stroke="#f9a8b8" stroke-width="1" stroke-linecap="round"/><line x1="522" y1="31" x2="508" y2="45" stroke="#f9a8b8" stroke-width="1" stroke-linecap="round"/></g>
+  <g class="s15"><line x1="585" y1="50" x2="585" y2="70" stroke="#ffb3c6" stroke-width="2" stroke-linecap="round"/><line x1="575" y1="60" x2="595" y2="60" stroke="#ffb3c6" stroke-width="2" stroke-linecap="round"/><line x1="578" y1="53" x2="592" y2="67" stroke="#ffb3c6" stroke-width="1.2" stroke-linecap="round"/><line x1="592" y1="53" x2="578" y2="67" stroke="#ffb3c6" stroke-width="1.2" stroke-linecap="round"/></g>
+</svg>
