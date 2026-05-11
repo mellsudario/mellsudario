@@ -14,12 +14,7 @@
 
 ## <img src="./images/pasta.png" width="35"/> skills & tecnologias
 
-| área | tecnologias |
-| --- | --- |
-| linguagens | `C` `Java` `JavaScript`  |
-| web | `HTML` `CSS` |
-| ferramentas | `Git` `GitHub` `Figma` |
-| estudando | algoritmos, estruturas de dados, lógica de programação |
+[![skills](https://skillicons.dev/icons?i=c,java,js,html,css,git,github,figma)](https://skillicons.dev)
 
 ---
 
