@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="./images/balloon.svg" width="680" alt="oi, sou a mell!"/>
+</p>
 
-<!--
-**mellsudario/mellsudario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎀 sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌵 brasileira de fortaleza, ceará  
+🖥️ ciência da computação @ uece  
+💌 em constante processo de aprender tudo que existe em tech  
+
+---
+
+## 📁 skills & tecnologias
+
+| área | ferramentas |
+| --- | --- |
+| linguagens | `Python` `C` `Java` |
+| explorando | iniciando nas linguagens acima |
+| web | `HTML` `CSS` |
+| ferramentas | `Git` `GitHub` `VS Code` |
+| estudando | algoritmos, estruturas de dados, lógica de programação |
+
+---
+
+## 🌸 onde me encontrar
+
+[![instagram](https://img.shields.io/badge/@mellsudario-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellsudario)
+[![email](https://img.shields.io/badge/mellsudario@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mellsudario@gmail.com)
+
+<p align="center">
+  <img src="./images/sparkles.svg" width="680" alt="✨"/>
+</p>
