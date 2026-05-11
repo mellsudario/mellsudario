@@ -6,9 +6,9 @@
 
 ## 🌸 sobre mim
 
-🇧🇷 brasileira de fortaleza, ceará  
+:brazil: brasileira de fortaleza, ceará  
 🖥️ ciência da computação @ uece  
-💌 em constante processo de aprender tudo que existe em tech  
+📝 em constante processo de aprender tudo que existe em tech  
 
 ---
 
