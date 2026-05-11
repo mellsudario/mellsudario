@@ -4,7 +4,7 @@
 
 ---
 
-## 🌸 sobre mim
+## <img src="./images/laco.png" width="22"/> sobre mim
 
 🇧🇷 brasileira de fortaleza, ceará  
 🖥️ ciência da computação - uece  
