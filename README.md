@@ -14,7 +14,7 @@
 
 ## 📁 skills & tecnologias
 
-| área | ferramentas |
+| área | tecnologias |
 | --- | --- |
 | linguagens | `C` `Java` `JavaScript`  |
 | web | `HTML` `CSS` |
