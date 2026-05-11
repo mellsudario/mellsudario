@@ -4,9 +4,9 @@
 
 ---
 
-## <img src="./images/laco.png" width="30"/> sobre mim
+## <img src="./images/laco.png" width="35"/> sobre mim
 
-🇧🇷 brasileira de fortaleza, ceará  
+<img src="./images/brasil.png" width="28"/> brasileira de fortaleza, ceará  
 🖥️ ciência da computação - uece  
 📝 em constante processo de aprender tudo que existe em tech  
 
