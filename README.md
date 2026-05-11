@@ -23,7 +23,7 @@
 
 ---
 
-## 🌸 onde me encontrar
+## 🪷 onde me encontrar
 
 [![instagram](https://img.shields.io/badge/@mellsudario-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellsudario)
 
