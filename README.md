@@ -6,8 +6,8 @@
 
 ## <img src="./images/laco.png" width="35"/> sobre mim
 
-<img src="./images/brasil.png" width="28"/> brasileira de fortaleza, ceará  
-🖥️ ciência da computação - uece  
+<img src="./images/brasil.png" width="26"/> brasileira de fortaleza, ceará  
+<img src="./images/computador" width="26"/> ciência da computação - uece  
 📝 em constante processo de aprender tudo que existe em tech  
 
 ---
