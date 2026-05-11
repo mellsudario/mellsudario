@@ -7,7 +7,7 @@
 ## 🌸 sobre mim
 
 ![Brazil](https://img.shields.io/badge/Brazil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white) brasileira de fortaleza, ceará  
-🖥️ ciência da computação @ uece  
+🖥️ ciência da computação - uece  
 📝 em constante processo de aprender tudo que existe em tech  
 
 ---
