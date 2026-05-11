@@ -6,7 +6,7 @@
 
 ## 🌸 sobre mim
 
-&#x1F1E7;&#x1F1F7; brasileira de fortaleza, ceará  
+![Brazil](https://img.shields.io/badge/Brazil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white) brasileira de fortaleza, ceará  
 🖥️ ciência da computação @ uece  
 📝 em constante processo de aprender tudo que existe em tech  
 
@@ -26,6 +26,7 @@
 ## 🌸 onde me encontrar
 
 [![instagram](https://img.shields.io/badge/@mellsudario-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellsudario)
+
 [![email](https://img.shields.io/badge/mellsudario@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mellsudario@gmail.com)
 
 <p align="center">
