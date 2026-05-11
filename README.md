@@ -16,8 +16,7 @@
 
 | área | ferramentas |
 | --- | --- |
-| linguagens | `Python` `C` `Java` |
-| explorando | iniciando nas linguagens acima |
+| linguagens | `C` `Java` |
 | web | `HTML` `CSS` |
 | ferramentas | `Git` `GitHub` `VS Code` |
 | estudando | algoritmos, estruturas de dados, lógica de programação |
