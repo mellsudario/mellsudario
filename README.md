@@ -12,7 +12,7 @@
 
 ---
 
-## 📁 skills & tecnologias
+## <img src="./images/pasta.png" width="35"/> skills & tecnologias
 
 | área | tecnologias |
 | --- | --- |
@@ -23,7 +23,7 @@
 
 ---
 
-## 🪷 onde me encontrar
+## <img src="./images/point.png" width="35"/> onde me encontrar
 
 [![instagram](https://img.shields.io/badge/@mellsudario-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellsudario)
 
